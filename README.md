@@ -1,7 +1,4 @@
-## Hi there 👋
-
 <h1 align="center">Hi i'm Ddayisigi</h1>
-
 <p align="center">大前端开发者</p>
 
 ## 🚀 技术专长
