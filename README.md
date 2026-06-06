@@ -27,7 +27,7 @@
 ## 📞 联系方式
 
 - **邮箱**: 18336830911@163.com
-- **GitHub**: 
+- **GitHub**: https://github.com/Ddayisigi
 - **Homepage**: www.wangyixao.net
 - **简历**: [EastonJiang-前端开发](https://www.jiangxu.net/resume)
 - **博客文章**: [myBlog](https://www.jiangxu.net/blog)
