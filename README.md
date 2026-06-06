@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-
-**Ddayisigi/Ddayisigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <h1 align="center">Hi i'm Ddayisigi</h1>
 
 <p align="center">大前端开发者</p>
