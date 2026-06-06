@@ -1,5 +1,5 @@
-<h1 align="center">Hi i'm Ddayisigi</h1>
-<p align="center">大前端开发者</p>
+<h1 align="center">Hi, I'm Ddayisigi</h1>
+<p align="center">前端开发者</p>
 
 ## 🚀 技术专长
 
@@ -20,7 +20,6 @@
 
 - **学历** - 大三
 - **大一蓝桥杯c++省赛** - 二等奖
-
 
 ---
 
