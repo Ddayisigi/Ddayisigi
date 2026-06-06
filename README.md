@@ -11,30 +11,30 @@
 ## 🚀 技术专长
 
 ### 核心技术栈
-- **前端开发**: HTML5/CSS3、JavaScript(ES6+)、Vue3、React19、nextjs
-- **服务端**: nodejs、supabase
+- **前端开发**: HTML5/CSS3、JavaScript(ES6+)、Vue3、React19
+- **服务端**: nodejs
 
 ### 工具与平台
 - **开发工具**: cursor、Git、Chrome DevTools
-- **构建工具**: Vite、npm、pnpm、Webpack、Turbopack
-- **测试工具**: vitest、ESLint、Prettier、Husky
-- **部署运维**: Docker、CI/CD(GitHub Actions)、Vercel
-- **AI编程**: Cursor、ClaudeCode、Codex、McpServer、AgentSkills
+- **构建工具**: Vite、npm、pnpm、Webpack
+- **测试工具**: vitest、ESLint、Prettier
+- **部署运维**: Docker、Vercel
+- **AI编程**: Cursor、Codex、TraeAi
 
 ---
 
 ## 📜 教育与竞赛经历
 
-- **学历** - 大二
-- **第17届全国大学生数学竞赛** - 北京赛区三等奖
-- **2026年美国大学生数学建模竞赛** - H奖6
+- **学历** - 大三
+- **大一蓝桥杯c++省赛** - 二等奖
+
 
 ---
 
 ## 📞 联系方式
 
-- **邮箱**: jiangxu05@outlook.com
-- **GitHub**: github.com/Jaxon1216
-- **Homepage**: www.jiangxu.net
+- **邮箱**: 18336830911@163.com
+- **GitHub**: 
+- **Homepage**: www.wangyixao.net
 - **简历**: [EastonJiang-前端开发](https://www.jiangxu.net/resume)
 - **博客文章**: [myBlog](https://www.jiangxu.net/blog)
